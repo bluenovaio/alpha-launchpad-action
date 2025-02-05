@@ -254,3 +254,16 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
 ```
+
+## License
+
+Licensed under MIT.
+
+<br>
+<hr>
+<h2 align="center">
+
+Want to sign up for Joggr? Check us out at <a href="https://joggr.io">Joggr</a>
+
+</h2>
+
